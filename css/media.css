@@ -1,0 +1,162 @@
+@media(max-width:1330px){
+.textandbutton p {
+    margin-bottom: 50px;
+}
+}
+@media(max-width:1280px){
+.textandbutton{     
+    width: 75%;        
+}
+.textandbutton h1 {
+    
+    font-size: 75px;
+}
+.textandbutton h2 {
+    
+    font-size: 50px;
+}
+.button {
+    width: 340px;
+}
+.textandbutton p {     
+    font-size: 24px;
+}
+
+}
+@media(max-width:1170px){
+.main-content{
+    flex-wrap: wrap;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.photos{
+    width: unset;
+    margin: 0 auto;
+}
+.photos img{
+    width: 90%;
+}
+.textandbutton {
+    width: 40%;
+}
+.container{    
+    padding-top: 20px;
+    width: 100%;
+}
+.button{
+    margin: 0 auto;
+}
+.textandbutton h2 {
+    text-align: center;
+    margin: 28px auto;
+}
+.bg-line {
+    background: #2db8c4;
+    width: 200px;
+    height: calc(100% * 2);
+    position: absolute;
+    top: -925px;
+    left: 416px;    
+    transform: rotate(60deg);
+    z-index: 1;
+}
+
+
+}             
+@media (max-width: 905px){
+.textandbutton {
+    width: 42%;
+}
+
+}
+@media (max-width: 855px){
+.textandbutton {
+    width: 43%;
+}
+.textandbutton h1 {
+    font-size: 53px;
+}
+.textandbutton h2 {
+    font-size: 38px;
+}
+.textandbutton p {
+    font-size: 16px;
+    text-align: center;
+}
+.button{
+    font-size: 20px;
+    width: 300px;
+} 
+
+
+}
+@media (max-width: 635px){
+            
+.textandbutton {
+    width: 50%;
+}
+.bg-line{
+    top: -760px;
+    left: 430px;
+    width: 100px;
+}
+.dropdown{
+    display: none;            
+}
+header{
+    min-height: 60px;
+
+}
+.main{
+    min-height: calc(100vh - 164px); 
+}
+.logoandlang {
+    padding: 10px 15px 0;
+}
+}        
+@media (max-width: 550px){
+.textandbutton {
+width: 60%;
+}
+}
+@media (max-width: 460px){
+.textandbutton {
+    width: 70%;
+}
+}
+@media (max-width: 400px){
+.textandbutton {
+    width: 80%;
+}
+.photos img {
+    width: 80%;
+    padding: 0;
+    padding-left: 30px;
+}
+.textandbutton h2 {
+    text-align: center;
+    margin: 0 auto; 
+}
+.textandbutton {
+    width: 92%;
+}
+.container {
+    padding-top: 0;
+}
+.textandbutton p {
+    margin-bottom: 10px;
+}
+.main-content {
+    flex-wrap: wrap;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.button{
+    height: 50px;
+    line-height: 50px;
+}
+
+}
+        
+
+
